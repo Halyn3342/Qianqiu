@@ -1,0 +1,19 @@
+{
+  "THE_ARCHITECT.CONTINUE": "继续",
+  "THE_ARCHITECT.RESPOND": "回答",
+  "THE_ARCHITECT.talk.MOENEGIMOD-QIANQIU.0-0.ancient": "祂说你一定会来到这里。",
+  "THE_ARCHITECT.talk.MOENEGIMOD-QIANQIU.0-0.next": "继续",
+  "THE_ARCHITECT.talk.MOENEGIMOD-QIANQIU.0-1.char": "告诉我离开“[gold]这里[/gold]”的方法。",
+  "THE_ARCHITECT.talk.MOENEGIMOD-QIANQIU.0-1.next": "聆听",
+  "THE_ARCHITECT.talk.MOENEGIMOD-QIANQIU.0-2.ancient": "但是，很抱歉。",
+  "THE_ARCHITECT.talk.MOENEGIMOD-QIANQIU.1-0.ancient": "你还是来到了这里。",
+  "THE_ARCHITECT.talk.MOENEGIMOD-QIANQIU.1-0.next": "继续",
+  "THE_ARCHITECT.talk.MOENEGIMOD-QIANQIU.1-1.char": "那么，[jitter][b][red]告诉我！[/red][/b][/jitter]",
+  "THE_ARCHITECT.talk.MOENEGIMOD-QIANQIU.1-1.next": "声讨！",
+  "THE_ARCHITECT.talk.MOENEGIMOD-QIANQIU.1-2.ancient": "。。。",
+  "THE_ARCHITECT.talk.MOENEGIMOD-QIANQIU.2-0r.ancient": "即使如此，[b][gold]你[/gold][/b]依然想要了解吗？",
+  "THE_ARCHITECT.talk.MOENEGIMOD-QIANQIU.2-0r.next": "继续",
+  "THE_ARCHITECT.talk.MOENEGIMOD-QIANQIU.2-1r.char": "。。。",
+  "THE_ARCHITECT.talk.MOENEGIMOD-QIANQIU.2-1r.next": "[b][red]攻击[/red][/b]",
+  "THE_ARCHITECT.talk.MOENEGIMOD-QIANQIU.2-2r.ancient": "你依然无法抵达“[gold][sine][b]真实[/b][/sine][/gold]”。"
+}

@@ -1,4 +1,6 @@
-{
-  "QIANQIU_MANA_COUNT.title": "法力",
-  "QIANQIU_MANA_COUNT.description": "你当前的法力（{singleStarIcon}）数。九千秋的部分卡牌可能会需要{singleStarIcon}才能打出。"
+﻿{
+    "QIANQIU_MANA_COUNT.title":  "法力",
+    "QIANQIU_MANA_COUNT.description":  "你当前的法力（{singleStarIcon}）数。九千秋的部分卡牌可能会需要{singleStarIcon}才能打出。",
+    "QIANQIU_BLACK_CLAW.title":  "黑爪",
+    "QIANQIU_BLACK_CLAW.description":  "拥有[purple]黑爪[/purple]的牌获得[gold]消耗[/gold]，且可以使用[gold]法力[/gold]等效替代[gold]能量[/gold]打出。"
 }
